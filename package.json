@@ -1,0 +1,23 @@
+{
+  "name": "auk-logger",
+  "version": "1.0.1",
+  "description": "logger in auk server",
+  "main": "index.js",
+  "repository": "alpjs/auk-logger",
+  "keywords": [
+    "alp",
+    "auk"
+  ],
+  "author": "Christophe Hurpeau <christophe@hurpeau.com> (http://christophe.hurpeau.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alpjs/auk-logger/issues"
+  },
+  "homepage": "https://github.com/alpjs/auk-logger#readme",
+  "dependencies": {
+    "alp-logger": "^1.0.0"
+  },
+  "peerDependencies": {
+    "auk-config": "^1.0.0"
+  }
+}
