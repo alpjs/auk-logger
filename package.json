@@ -1,6 +1,6 @@
 {
   "name": "auk-logger",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "logger in auk server",
   "main": "index.js",
   "repository": "alpjs/auk-logger",
