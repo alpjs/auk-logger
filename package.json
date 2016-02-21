@@ -16,8 +16,5 @@
   "homepage": "https://github.com/alpjs/auk-logger#readme",
   "dependencies": {
     "alp-logger": "^1.3.0"
-  },
-  "peerDependencies": {
-    "auk-config": "^1.1.0"
   }
 }
